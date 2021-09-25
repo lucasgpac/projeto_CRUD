@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Meu primeiro projeto com angular\r Parte backend do projeto",
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json --port 3001"
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasgpac/projeto_CRUD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasgpac/projeto_CRUD/issues"
+  },
+  "homepage": "https://github.com/lucasgpac/projeto_CRUD#readme"
 }
